@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "AvenirRomanAvenirRoman";
+  src: url("../fonts/AvenirRoman/AvenirRoman.eot");
+  src: url("../fonts/AvenirRoman/AvenirRoman.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/AvenirRoman/AvenirRoman.woff") format("woff"),
+  url("../fonts/AvenirRoman/AvenirRoman.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "opensanslight";
+  src: url("../fonts/opensans/opensanslight.eot");
+  src: url("../fonts/opensans/opensanslight.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/opensans/opensanslight.woff") format("woff"),
+  url("../fonts/opensans/opensanslight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "opensans";
+  src: url("../fonts/opensans/opensans.eot");
+  src: url("../fonts/opensans/opensans.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/opensans/opensans.woff") format("woff"),
+  url("../fonts/opensans/opensans.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "opensanssemibold";
+  src: url("../fonts/opensans/opensanssemibold.eot");
+  src: url("../fonts/opensans/opensanssemibold.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/opensans/opensanssemibold.woff") format("woff"),
+  url("../fonts/opensans/opensanssemibold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "opensansbold";
+  src: url("../fonts/opensans/opensansbold.eot");
+  src: url("../fonts/opensans/opensansbold.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/opensans/opensansbold.woff") format("woff"),
+  url("../fonts/opensans/opensansbold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+body {
+  font-family: "opensans";
+}
