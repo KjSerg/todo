@@ -18,7 +18,7 @@
     "browser-sync": "^2.24.4",
     "concurrently": "^4.1.0",
     "eslint": "^5.6.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autopolyfiller": "^1.2.1",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-concat": "^2.6.1",
